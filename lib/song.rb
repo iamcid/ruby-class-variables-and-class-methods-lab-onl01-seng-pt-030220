@@ -6,6 +6,7 @@ class Song
   
   def initialize(song_name, artist, genre)
     @@count += 1
+    @@genres << genre
   end
   
   def self.count
