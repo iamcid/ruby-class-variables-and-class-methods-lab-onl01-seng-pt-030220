@@ -1,1 +1,3 @@
-class 
+class Song
+
+end
